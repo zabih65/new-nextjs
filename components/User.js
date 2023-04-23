@@ -5,7 +5,7 @@ const User = ({ user }) => {
         <>
             <ul>
                 <li>
-                    name:{user.name}
+                    firstname:{user.name}
                 </li>
             </ul>
         </>
